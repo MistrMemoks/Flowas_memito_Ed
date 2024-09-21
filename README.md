@@ -1,4 +1,14 @@
-# Flowas_memito_Ed
+# Kado
+-Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
 
-This project is based a copy of algo de por ahí (puro spanglish aquí)
-Solo para uso personal
+
+# Description
+Flower code tiktok trend 
+
+Responsive Web -- bisa langsung disesuikan di file css --> style.css
+
+# Author
+- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
+- Index Code : Septian Dwi Cahyo (@Septiandwica)
+
+Thanks to codepan and mdusmanansari
